@@ -2,3 +2,9 @@ __pycache__/
 *.pyc
 *_env/
 *_venv/
+
+phonebook_v1/create_data.py
+phonebook_v1/create_data.py
+phonebook_v1/main.py
+phonebook_v1/phonebook.txt
+phonebook_v1/ui.py
