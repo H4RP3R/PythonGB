@@ -7,7 +7,8 @@ import pandas as pd
 
 
 df = pd.read_csv(
-    'https://gist.githubusercontent.com/H4RP3R/3ca02fb7457052842710b4a3d4ccd51f/raw/f2378e242967fb6ee4745731a34a478ac0d6c13f/gistfile1.txt')
+    'https://gist.githubusercontent.com/H4RP3R/215e47955e2155d71bddfb7caa04691a/raw/d23fb92edc15d03e7107bf702611286b048d3be0/california_housing_test.csv'
+    )
 
 print('rows: {}, columns {}'.format(*df.shape))
 print(df.dtypes)
